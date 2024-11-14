@@ -1,12 +1,13 @@
 Class {
  int a ;
-int b
+int b;
 
-public static void main(String [] args){
- int c = 10;
-int d =20;
-int f =c+d;
-System.out.println(f);
+
+ public static void main(String[] main){
+ a =10;
+ b=20;
+ int c =a+b;
+ System.out.println(c);
 }
 
 }
